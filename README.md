@@ -14,6 +14,7 @@ This project presents a **Sales Dashboard** created using Power BI to visualize 
 | `cleaned_Superstore.csv` | Cleaned and pre-processed dataset ready for dashboard visualization. |
 | `salescleaned.ipynb` | Jupyter Notebook used to clean and transform the raw data. |
 | `SuperstoreSalesDashboard.pbix` | Power BI dashboard file visualizing key sales and performance metrics. |
+| `SalesDashboard.png`         | Exported image snapshot of the Power BI dashboard for quick reference or documentation use.   |
 | `README.md` | Project overview and documentation. |
 
 ---
